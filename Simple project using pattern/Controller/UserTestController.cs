@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Project.Models;
 using Simple_project_using_pattern.Interface;
-using Simple_project_using_pattern.Model.DTO;
 using Simple_project_using_pattern.Service;
 using System.Diagnostics;
 using System.Security.Cryptography;

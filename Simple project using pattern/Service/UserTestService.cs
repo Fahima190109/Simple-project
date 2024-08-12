@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Simple_project_using_pattern.Interface;
-using Simple_project_using_pattern.Model.DTO;
+using Project.Models;
 
 namespace Simple_project_using_pattern.Service
 {

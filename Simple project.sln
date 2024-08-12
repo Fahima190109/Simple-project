@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple project using pattern", "Simple project using pattern\Simple project using pattern.csproj", "{E8E2297B-5A2B-4C43-B121-6EAF425D442E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple project using pattern", "Simple project using pattern\Simple project using pattern.csproj", "{E8E2297B-5A2B-4C43-B121-6EAF425D442E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Repoitory", "Project.Repoitory\Project.Repoitory.csproj", "{F9D5E23F-60F8-413B-BF28-7F80F77BAC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Models", "Projec.Models\Project.Models.csproj", "{1EA2A285-337A-4A76-AB0B-267309D04E46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E8E2297B-5A2B-4C43-B121-6EAF425D442E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8E2297B-5A2B-4C43-B121-6EAF425D442E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8E2297B-5A2B-4C43-B121-6EAF425D442E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D5E23F-60F8-413B-BF28-7F80F77BAC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D5E23F-60F8-413B-BF28-7F80F77BAC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D5E23F-60F8-413B-BF28-7F80F77BAC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D5E23F-60F8-413B-BF28-7F80F77BAC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA2A285-337A-4A76-AB0B-267309D04E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA2A285-337A-4A76-AB0B-267309D04E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA2A285-337A-4A76-AB0B-267309D04E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA2A285-337A-4A76-AB0B-267309D04E46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
